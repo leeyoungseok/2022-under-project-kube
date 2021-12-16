@@ -38,4 +38,4 @@ Private Google Coalb 서비스
 *
 
 # 참고문헌
-1. [Google Colab](https://colab.reesarch.google.com)
+1. [Google Colab](https://colab.research.google.com)
