@@ -17,7 +17,7 @@ Tensorflow/Pytorch 등의 AI 실습을 Private Cloud에서 실행할 수 있는 
 # 필요기술
 + Google Colab 지식: Google Colab으로 Python, Tensorflow 프로그래밍 
 + 프론트엔드개발: Google Colab과 같은 Jupyuter 기반 웹 IDE 
-+ 백엔드개발: web server, DB, cloud 활용 서버 개발
++ 백엔드개발: tensorflow, jupyter server, web server, DB, cloud 활용 서버 개발
 + 공개SW Kubernetes : Kubernetes 공개SW 이용 클라우드 관리
 + 리눅스: 서버 관리 및 Kubernetes 활용을 위한 리눅스 필수
 
